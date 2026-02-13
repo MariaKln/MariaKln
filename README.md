@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Привет, меня зовут Мария <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 <h3 align="center">BI аналитик с математическим образованием. Работаю в IT с 2011 года.</h3>
 
 ### Обо мне:
@@ -14,18 +14,19 @@
 <h3 align="center">Мои проекты:</h3>
 
 <h3 align="center">Инструменты:</h3>
-<img>https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white</img>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Superset](https://img.shields.io/badge/Superset-20A0C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
-![Redash](https://img.shields.io/badge/Redash-FF7964?style=for-the-badge&logo=redash&logoColor=white)
-![Datalens](https://img.shields.io/badge/Datalens-FF6600?style=for-the-badge&logo=datalens&logoColor=white)
-![Insight BI](https://img.shields.io/badge/Insight_BI-3F51B5?style=for-the-badge&logo=googleanalytics&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Superset-20A0C9?style=for-the-badge&logo=apachesuperset&logoColor=white" alt="Superset" />
+  <img src="https://img.shields.io/badge/Redash-FF7964?style=for-the-badge&logo=redash&logoColor=white" alt="Redash" />
+  <img src="https://img.shields.io/badge/Datalens-FF6600?style=for-the-badge&logo=datalens&logoColor=white" alt="Datalens" />
+  <img src="https://img.shields.io/badge/Insight_BI-3F51B5?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Insight BI" />
+</p>
 
 <!--
 **MariaKln/MariaKln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
