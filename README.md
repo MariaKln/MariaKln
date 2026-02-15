@@ -12,9 +12,27 @@
 Я увлечена силой данных и верю, что хорошая коммуникация и человеческий подход могут сыграть решающую роль в построении действительно полезных продуктов.
 
 <h3 align="center">Мои проекты:</h3>
+<table>
+  <tr>
+    <th>Название проекта</th>
+    <th>Описание проекта</th>
+    <th>Стек</th>
+  </tr>
+  <tr>
+    <td>Корреляционный анализ технических характеристик и рыночной динамики ПК <a href="https://github.com/MariaKln/marketplace_analisys_pc" target="_blank">(github)</a></td>
+    <td>Полная предобработка данных: удаление дубликатов, обработка ошибок заполнения, распаковка и преобразование значений. Корреляционный анализ.</td>
+    <td>pandas, numpy, json, re, matplotlib, seaborn, scipy</td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>
 
-<h3 align="center">Инструменты:</h3>
-<p align="center">
+<h3>Инструменты:</h3>
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
