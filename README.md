@@ -23,14 +23,14 @@
     <th>Стек</th>
   </tr>
    <tr>
-    <td>[Анализ результатов рекламной компании и выяснение причин падения аудитории](https://github.com/MariaKln/marketing_campaign_analysis)</td>
+    <td><a href="https://github.com/MariaKln/marketing_campaign_analysis">Анализ результатов рекламной компании и выяснение причин падения аудитории</a></td>
     <td>Расчёт и визуализация DAU и retention. Анализ аномального оттока пользователей</td>
-    <td>**Superset Redash SQL ClickHouse**</td>
+    <td><span style="font-weight: bold;">Superset Redash SQL ClickHouse</span></td>
   </tr>
   <tr>
-    <td>[Корреляционный анализ технических характеристик и рыночной динамики ПК](https://github.com/MariaKln/marketplace_analisys_pc)</td>
+    <td><a href="https://github.com/MariaKln/marketplace_analisys_pc">Корреляционный анализ технических характеристик и рыночной динамики ПК</a></td>
     <td>Предобработка данных: удаление дубликатов, обработка ошибок заполнения, распаковка и преобразование значений. Корреляционный анализ.</td>
-    <td>**Pandas Numpy Json Re Matplotlib Seaborn Scipy Sklearn Statsmodels</td>
+    <td><span style="font-weight: bold;">Pandas Numpy Json Re Matplotlib Seaborn Scipy Sklearn Statsmodels</span></td>
   </tr>
 </table>
 
