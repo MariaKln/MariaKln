@@ -21,7 +21,7 @@
 
 ### 🛠️ Инструменты:
 - **Анализ данных:** Python (Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook), SQL (PostgreSQL, ClickHouse)
-- **Визуализация:** Datalens, Superset, Insight BI
+- **Визуализация:** Datalens, Power BI, Superset, Insight BI
 - **Инфраструктура:** Git, Airflow, Docker
 
 <!--
